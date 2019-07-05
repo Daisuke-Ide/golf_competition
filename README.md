@@ -1,6 +1,6 @@
 # golf_competition
 
-##目的：ゴルフコンペの集計用notebook
+## 目的：ゴルフコンペの集計用notebook
 
 コンペの集計およびハンデをペリア方式、ダブルペリア方式で計算できるものをjupyter notebookで実装しました。
 注意点は下記の通りです。
